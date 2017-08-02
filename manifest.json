@@ -1,0 +1,37 @@
+{
+
+  "manifest_version": 2,
+  "name": "Send Firefox",
+  "description": "Send Firefox in your sidebar",
+  "version": "1.0",
+  "applications": {
+    "gecko": {
+      "strict_min_version": "54.0a1"
+    }
+  },
+
+  "icons": {
+    "48": "icons/icon_48.png",
+    "96": "icons/icon_96.png"
+  },
+
+  "sidebar_action": {
+    "default_icon": {
+      "48": "icons/icon_48.png",
+      "96": "icons/icon_96.png"
+    },
+    "default_title" : "Send Firefox",
+    "default_panel": "index.html"
+  },
+
+  "permissions": ["storage", "tabs"],
+
+  "commands": {
+    "_execute_sidebar_action": {
+      "suggested_key": {
+        "default": "Ctrl+Shift+O"
+      }
+    }
+  }
+
+}
