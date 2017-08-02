@@ -4,6 +4,10 @@
   "name": "Send Firefox",
   "description": "Send Firefox in your sidebar",
   "version": "1.0",
+  "developer": {
+      "name": "Rizky Ariestiyansyah",
+      "url": "http://oonlab.com"
+  },
   "applications": {
     "gecko": {
       "strict_min_version": "54.0a1"
