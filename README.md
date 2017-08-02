@@ -4,6 +4,8 @@ Send Firefox on your sidebar
 
 ## Run!
 
-Use CTRL + Shift + O (PC/Linux) or Command + Shift + O (Mac)
+Use `Ctrl+Shift+O` (PC/Linux) or `⌘ +Shift+O` (Mac) to activate/deactivate sidebar
 
 ![screenshot](screenshot.gif)
+
+
