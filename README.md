@@ -10,4 +10,8 @@ Use `Ctrl+Shift+O` (PC/Linux) or `⌘+Shift+O` (Mac) to activate/deactivate side
 
 ![screenshot](screenshot.gif)
 
+## LICENSE
+
+[Mozilla Public License 2.0](/LICENSE)
+
 
