@@ -3,7 +3,7 @@
   "manifest_version": 2,
   "name": "Send Firefox",
   "description": "Send Firefox in your sidebar",
-  "version": "1.0",
+  "version": "1.1",
   "developer": {
       "name": "Rizky Ariestiyansyah",
       "url": "http://oonlab.com"
@@ -27,8 +27,6 @@
     "default_title" : "Send Firefox",
     "default_panel": "index.html"
   },
-
-  "permissions": ["storage", "tabs"],
 
   "commands": {
     "_execute_sidebar_action": {
